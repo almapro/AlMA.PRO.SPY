@@ -2,8 +2,8 @@
 	date_default_timezone_set('Africa/Tripoli'); // Set your timezone according to PHP website, so you see correct time. [Default: Africa/Tripoli].
 	$useragent=''; // Set UserAgent for restricting access to the ControlPanel [Default: '']. **Recommended**
 	$dbhost='localhost'; // Database host.
-	$dbuser='alma'; // Database username.
-	$dbpass='pro'; // Database password.
+	$dbuser='root'; // Database username.
+	$dbpass=''; // Database password.
 	$dbname='apsdb'; // AlMA.PRO.SPY database [Default: apsdb].
 	$logins=array('almapro' => 'leader','' => ''); // AlMA.PRO.SPY logins' details (user => pass) [Default: almapro => leader].
 	$loginneed=true; // Whether login is needed or not [Default: true = needed].
