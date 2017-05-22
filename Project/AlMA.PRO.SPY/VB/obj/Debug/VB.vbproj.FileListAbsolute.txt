@@ -1,0 +1,11 @@
+C:\Users\AlMA3lOl\Documents\Visual Studio 2015\Projects\AlMA.PRO.SPY\VB\bin\Debug\VB.exe.config
+C:\Users\AlMA3lOl\Documents\Visual Studio 2015\Projects\AlMA.PRO.SPY\VB\bin\Debug\VB.exe
+C:\Users\AlMA3lOl\Documents\Visual Studio 2015\Projects\AlMA.PRO.SPY\VB\bin\Debug\VB.pdb
+C:\Users\AlMA3lOl\Documents\Visual Studio 2015\Projects\AlMA.PRO.SPY\VB\bin\Debug\VB.xml
+C:\Users\AlMA3lOl\Documents\Visual Studio 2015\Projects\AlMA.PRO.SPY\VB\obj\Debug\VB.vbprojResolveAssemblyReference.cache
+C:\Users\AlMA3lOl\Documents\Visual Studio 2015\Projects\AlMA.PRO.SPY\VB\obj\Debug\VB.Resources.resources
+C:\Users\AlMA3lOl\Documents\Visual Studio 2015\Projects\AlMA.PRO.SPY\VB\obj\Debug\VB.USB.resources
+C:\Users\AlMA3lOl\Documents\Visual Studio 2015\Projects\AlMA.PRO.SPY\VB\obj\Debug\VB.vbproj.GenerateResource.Cache
+C:\Users\AlMA3lOl\Documents\Visual Studio 2015\Projects\AlMA.PRO.SPY\VB\obj\Debug\VB.exe
+C:\Users\AlMA3lOl\Documents\Visual Studio 2015\Projects\AlMA.PRO.SPY\VB\obj\Debug\VB.xml
+C:\Users\AlMA3lOl\Documents\Visual Studio 2015\Projects\AlMA.PRO.SPY\VB\obj\Debug\VB.pdb
