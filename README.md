@@ -2,10 +2,10 @@
 
 The **Open-source** BotNet - By [**A.R.M-Y H4CK3RZ**](https://fb.com/A.R.M.Libya.Official)  
 Check the [wiki](https://github.com/almapro/AlMA.PRO.SPY/wiki) for more information.  
-You need the [CPanel](https://github.com/almapro/APS-PHP/)
+You need the [CPanel](https://github.com/almapro/APS-PHP/) (Updated 18,Jun,2017)
 
 `Versions of the bot`:
-1. [VB.NET](https://github.com/almapro/APS-VB.NET/)  
+1. [VB.NET](https://github.com/almapro/APS-VB.NET/) (Updated 18,Jun,2017)  
 1. VBS  
 1. C++  
     1. EXE (Windows)  
@@ -14,7 +14,7 @@ You need the [CPanel](https://github.com/almapro/APS-PHP/)
 1. Cocoa (Mac OS X)  
 1. AppleScripts (Mac OS X)  
 1. Automator Workflows [not so sure about it] (Mac OS X)  
-1. [Java (Android)](https://github.com/almapro/APS-Android/)  
+1. [Java (Android)](https://github.com/almapro/APS-Android/) (Updated 18,Jun,2017)  
 1. Python (Cross-Platform)  
 1. Perl (Cross-Platform)  
 1. JS (Cross-Platform)  
