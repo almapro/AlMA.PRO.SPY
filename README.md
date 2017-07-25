@@ -5,7 +5,7 @@ Check the [wiki](https://github.com/almapro/AlMA.PRO.SPY/wiki) for more informat
 You need the [CPanel](https://github.com/almapro/APS-PHP/) (Updated 18,Jun,2017)
 
 `Versions of the bot`:
-1. [VB.NET](https://github.com/almapro/APS-VB.NET/) (Updated 18,Jun,2017)  
+1. [VB.NET](https://github.com/almapro/APS-VB.NET/) (Updated 25,Jul,2017)  
 1. VBS  
 1. C++  
     1. EXE (Windows)  
